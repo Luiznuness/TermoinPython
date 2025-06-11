@@ -1,5 +1,5 @@
 import random
-from termo.new_logic import Termo
+from TermoinPython.termo.logic import Termo
 from time import sleep
 import os
 
